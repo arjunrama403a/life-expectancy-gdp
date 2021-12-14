@@ -1,2 +1,2 @@
 # life-expectancy-gdp
-This repositery is a my data visualization portofolio project from codeacademy
+This repository is a my data visualization portofolio project from codeacademy
